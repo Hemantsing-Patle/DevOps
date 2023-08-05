@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 !!! This is first feature of our application !!!
 1st line>> This is the bug fix in development branch
 This is GadBad code
 This feature will gadbad everything from now.
+=======
+!!! This is first feature of our application !!!
+>>>>>>> parent of 5ffe811 (Added Feature2 in Devlopment Branch)
